@@ -22,7 +22,7 @@ The company has consistently put the needs of its clients first, which has earne
 
 Overall, Redfin is a prominent player in the real estate industry, and its unwavering focus on its customers has helped it become one of the most successful and respected companies in the business. 
 
-Using the [Best Scraper](https://github.com/BeautifulMoon211/Redfin-Scraping) for [Best Real Estate Company](https://realestate.usnews.com/real-estate/agents/top-real-estate-companies/usa).
+Using the [Best Scraper](https://github.com/AIXerum/Redfin-Scraping) for [Best Real Estate Company](https://realestate.usnews.com/real-estate/agents/top-real-estate-companies/usa).
 
 
 
@@ -47,8 +47,6 @@ Using the [Best Scraper](https://github.com/BeautifulMoon211/Redfin-Scraping) fo
 ```
 "RI": [02802, 02804, 02806, 02807, 02808, 02809, 02812, 02813, 02814, 02815, 02816, 02817, 02818, 02822, 02823, 02824, 02825, 02826, 02827, 02828, 02829, 02830, 02831, 02832, 02833, 02835, 02836, 02837, 02838, 02839, 02840, 02841, 02842, 02852, 02857, 02858, 02859, 02860, 02861, 02863, 02864, 02865, 02871, 02872, 02873, 02874, 02875, 02876, 02878, 02879, 02881, 02882, 02885, 02886, 02888, 02889, 02891, 02892, 02893, 02894, 02895, 02896, 02898, 02903, 02904, 02905, 02906, 02907, 02908, 02909, 02910, 02911, 02912, 02914, 02915, 02916, 02917, 02918, 02919, 02920, 02921]
 ```
-**Live Demo for ZipCode Extractor is [here](https://raw.githubusercontent.com/BeautifulMoon211/Redfin-Scraping/main/zip_codes.txt)** 
-
 ### Redfin Property Scraper
 You can gather all real estate information from Redfin, including price, number of bedrooms and bathrooms, square footage, address, and phone number, organized by the zip codes you previously extracted.
 
@@ -73,36 +71,3 @@ You can gather all real estate information from Redfin, including price, number 
 | $1,892+ /mo  | 1-2 beds       | 1 bath           | 661-1,141 Sq Ft | 299 Carpenter St, Providence, RI 02909 | https://www.redfin.com/RI/Providence/Grant-Mill-Lofts/apartment/177410453     | +1 (401) 228-8015    |
 | $1,800/mo    | 1 bed          | 1 bath           | 800 Sq Ft    | 51 Chapin Ave, Providence, RI 02909    | https://www.redfin.com/RI/Providence/51-Chapin-Ave-02909/apartment/51697187    | +1 (401) 862-9078    |
 |...|...|...|...|...|...|...|
-
-**Live Demo for Redfin Property Scraper is [here](https://www.loom.com/share/1e85458edbbd4649bbacdb0f5243fc2b?sid=e28864d4-3170-4da2-ac3c-187cc9d38df2)** 
-
-## Project Info
-### Author 
-Sweem
-
-### Developers
- - [Sweem](https://github.com/BeautifulMoon211)
- - [Johnson Takashi](https://github.com/HighAmbition211)
-
-### Version
-1.0.0
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/BeautifulMoon211/Redfin-Scraping/blob/main/LICENSE) file for details.
-
-<h3>
-    If you found this project useful or interesting, please consider giving it a 
-    <a href="https://github.com/BeautifulMoon211/Redfin-Scraping">
-        <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/refs/heads/auxiliary/others/star.gif" style="width:25px"> 
-        Star
-    </a>, or 
-    <a href="https://github.com/BeautifulMoon211/">
-        Following
-    </a> 
-    me.
-    If you'd like to use this template, feel free to 
-    <a href="https://github.com/BeautifulMoon211/Redfin-Scraping/fork">
-        Fork
-    </a> 
-    it and customize it to your needs!
-</h3>
